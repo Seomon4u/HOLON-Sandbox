@@ -15,7 +15,7 @@ We can build better together.
 
 This repository originates from the community of contributers to [Comprehensive NFT Framework Collab](https://cardano.ideascale.com/a/dtd/Comprehensive-NFT-Framework-Collab/334521-48088), a [Project Cataylyst](https://cardano.ideascale.com/) proposal that contributes to the future of [Cardano](https://cardano.org/).
 
-![alt text](Isolated.png "Title")
+![alt text](Decomposition of the NFT-DAO Business Plan.jpg "Title")
 
 
 ## To participate in the NFT-DAO Governance HOLON GitHub :
