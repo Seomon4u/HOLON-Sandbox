@@ -1,11 +1,3 @@
-# HOLON-Sandbox
-
-# Decomposition-of-the-NFT-DAO-Business-Plan
-
-![Decomposition-of-the-NFT-DAO-Business-Plan](Decomposition-of-the-NFT-DAO-Business-Plan.jpg)
-
- :older_man:
-
 ## Current Focus
 
 This Sandbox is currently focused on being a testbed for :
