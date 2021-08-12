@@ -1,10 +1,11 @@
-# ...
-- name: Create new issue
-  uses: imjohnbo/issue-bot@v3
-  with:
-    assignees: "octocat, monalisa"
-    title: Hello, world
-    body: |-
-      :wave: Hi, {{#each assignees}}@{{this}}{{#unless @last}}, {{/unless}}{{/each}}!
-    pinned: true
-# ...
+name: Hello world!
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  sayHelloWorld:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: gr2m/hello-world-js-action@v1.x
