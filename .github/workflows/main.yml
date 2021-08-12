@@ -2,7 +2,7 @@ name : testing
 on : push
 
 jobs:
-  build and run:
+  build-and-run:
     name: Build and run
     runs-on: ubuntu-latest
     steps:
