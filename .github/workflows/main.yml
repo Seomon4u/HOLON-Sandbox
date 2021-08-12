@@ -1,8 +1,10 @@
+# ...
 - name: Create new issue
-  uses: imjohnbo/issue-bot@v3.3.0
+  uses: imjohnbo/issue-bot@v3
   with:
     assignees: "octocat, monalisa"
     title: Hello, world
     body: |-
       :wave: Hi, {{#each assignees}}@{{this}}{{#unless @last}}, {{/unless}}{{/each}}!
     pinned: true
+# ...
