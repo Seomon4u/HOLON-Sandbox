@@ -1,6 +1,6 @@
 name: Create new issue
 uses: imjohnbo/issue-bot@v3
-  with:
+with:
     assignees: "octocat, monalisa"
     title: Hello, world
     body: |-
